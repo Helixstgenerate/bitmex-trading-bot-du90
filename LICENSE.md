@@ -1,4 +1,4 @@
-# 
+# smart Trading Bot for bitmex trading bot | arbitrage-scanning & high-frequency offers the most advanced bitmex trading bot, with arbitrage-scanning and high-frequency. Ideal for
 
 
 
